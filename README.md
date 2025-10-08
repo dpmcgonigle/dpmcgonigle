@@ -32,6 +32,6 @@
 
 ## Certifications
 ![Comptia Security+](https://img.shields.io/badge/security-plus-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![AWS Developer Associate](https://img.shields.io/badge/aws-developer-associate-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS Developer Associate](https://img.shields.io/badge/aws-developer-associate-%23233300.svg?style=for-the-badge)
 
 * **Dan McGonigle** [dpmcgonigle](https://github.com/dpmcgonigle)
